@@ -67,13 +67,13 @@ This guide provides:
 
 ## 🔥 What Makes This Guide Different
 
-🎯 **Experience-Driven**: Based on hunting 1000+ real bugs, not just theory  
-🔍 **Stack-Specific**: Tells you EXACTLY where each vuln appears (e.g., "LFI in old PHP sites", "IDOR in React APIs")  
-⚡ **Modern Focus**: Includes 2024-2025 trends (LLM injection, GraphQL security, cloud-native vulns)  
-🛠️ **Actionable**: Ready-to-use payloads and bypass techniques  
-📊 **Organized**: Easy-to-scan tables for quick reference during testing  
-🔗 **Comprehensive**: Covers everything from classic SQLi to bleeding-edge AI vulnerabilities  
-
+- 🎯 **Experience-Driven**: Based on hunting 1000+ real bugs, not just theory
+- 🔍 **Stack-Specific**: Tells you EXACTLY where each vuln appears (e.g., "LFI in old PHP sites", "IDOR in React APIs")
+- ⚡ **Modern Focus**: Includes 2024-2025 trends (LLM injection, GraphQL security, cloud-native vulns)
+- 🛠️ **Actionable**: Ready-to-use payloads and bypass techniques
+- 📊 **Organized**: Easy-to-scan tables for quick reference during testing
+- 🔗 **Comprehensive**: Covers everything from classic SQLi to bleeding-edge AI vulnerabilities 
+ 
 ---
 
 ## 💰 Bounty Severity Reference
@@ -150,7 +150,7 @@ This guide is community-driven and welcomes contributions!
 
 ## 📜 License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -168,6 +168,7 @@ This project is licensed under the MIT License
 
 - **Issues**: Report bugs or suggest improvements via GitHub Issues
 - **Discussions**: Join conversations in GitHub Discussions
+- Mail me : ***pookielinuxuser@tutamail.com*
 
 ---
 
